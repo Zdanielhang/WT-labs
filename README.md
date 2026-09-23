@@ -1,4 +1,4 @@
-# 🚀 Space Bot API Investigation Sheet
+# 🚀 Astro Bot API Investigation Sheet
 
 **Total Marks: 40**  
 **TASK 1: Collect Required API Documentation**
